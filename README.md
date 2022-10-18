@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently learning on school.
-- 🌱 I’m currently learning cs.
-- 🤔 I’m looking for help with leetcode.
+- 🌱 I’m currently learning CS.
+- 🤔 I’m looking for help with survival at society.
 - 📫 How to reach me: mail.
 - 😄 Pronouns: boy.
 - ⚡ Fun fact: Nice to meet you.
