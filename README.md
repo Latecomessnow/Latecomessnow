@@ -4,8 +4,8 @@
 ✨ _I'm Hui Gu, a college student at school_. ✨ 
 
 
-- 🎠 I'm currently learning on school.
 - 🌱 I'm currently learning CS.
+- 🎠 I'm in the midst of a tough job search to make a living.
 - 🤔 I'm looking for help how to survive in society.
 - 📫 How to reach me: mail.
 - 😄 Pronouns: boy.
