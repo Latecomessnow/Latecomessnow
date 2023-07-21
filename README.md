@@ -4,9 +4,9 @@
 ✨ _I'm Hui Gu, a college student at school_. ✨ 
 
 
-- 🎠 I’m currently learning on school.
-- 🌱 I’m currently learning CS.
-- 🤔 I’m looking for help how to survive in society.
+- 🎠 I'm currently learning on school.
+- 🌱 I'm currently learning CS.
+- 🤔 I'm looking for help how to survive in society.
 - 📫 How to reach me: mail.
 - 😄 Pronouns: boy.
 - 👀 Fun fact: Nice to meet you.
