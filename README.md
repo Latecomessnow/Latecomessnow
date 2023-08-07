@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-✨ _I'm Hui Gu, a college student at school_. ✨ 
+✨ ***I'm Hui Gu, a college student at school***. ✨ 
 
 
 - 🌱 I'm currently learning CS.
